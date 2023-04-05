@@ -13,7 +13,7 @@ taskkill /F /IM IEXPLORE.EXE
 taskkill /F /IM msedge.exe  
 taskkill /F /IM firefox.exe  
 taskkill /F /IM swupdatercrashhandler64.exe   
-taskkill /F /IM swupdatercrashhandler64.ex  
+taskkill /F /IM swupdatercrashhandler64.exe  
 taskkill /F /IM wavebrowser.exe  
 
 # Get and disable scheduled task: 
