@@ -16,7 +16,7 @@ taskkill /F /IM swupdatercrashhandler64.exe
 taskkill /F /IM swupdatercrashhandler64.ex  
 taskkill /F /IM wavebrowser.exe  
 
-# Get and disable shcedualed task: 
+# Get and disable scheduled task: 
 Get-ScheduledTask -TaskName *Wavesor* | Disable-ScheduledTask
 
 
